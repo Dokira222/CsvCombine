@@ -6,3 +6,6 @@
 **出來的檔名會是compy.csv**
 **如果資料夾內已經有相同名稱的csv檔，原csv檔不會被覆蓋**
 **須按裝pandas**
+
+HualienWeather.csv及TaipeiWeather.csv為測試檔，和.py檔放入同個資料夾後即可測試
+**有些字讓程式顯示錯誤，比如中文，或是°都會使程式無法運行**
